@@ -2,7 +2,22 @@
 Furto, Roubo, Estelionato, Fraude
 
 FURTO - Art.155
-- 
+-Existem 4 tipos de furto - Furto simples, furto privilegiado, furto noturno e furto qualificado.
+ - Furto Simples - Caput
+   - Subtrair coisa alheia móvel, para si ou para outrem
+   
+ - Furto Privilegiado
+ - Furto noturno 
+ - Furto qualificado 
+
+
+
+
+
+
+
+
+
 
 ROUBO - Art.157
 - Subtrair objeto alheio por meio de violência/ grave ameaça (g/va)
