@@ -1,5 +1,5 @@
 # Crimes-Contra-o-patrimonio
-Furto, Roubo, Estelionato, Fraude
+Furto, Roubo, Estelionato, Extorsão
 
 FURTO - Art.155
 -Existem 4 tipos de furto - Furto simples, furto privilegiado, furto noturno e furto qualificado.
