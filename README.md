@@ -16,8 +16,16 @@ FURTO - Art.155
      - A segunda é no caso do item consumado, sejá de valor insignificante. Objeto de valor insignifante, é aquele que nçao excede 1/2 ou um salário minimo.
    - OBSERVAÇÂO: Furto privilegiado-qualificado é inadmissível.
  
- - Furto qualificado 
- 
+ - Furto qualificado - art. 155. parágrafo 4
+   - Pena de 2 a 8 anos, e multa, se for comeitdo por:
+     - Com destruição ou rompimento de obstáculo a subtração da coisa
+     - Com abuso de confiança, ou mediante fraude, escalda ou destreza
+     - com emprego de chave falsa
+     - mediante concurso de duas ou mais pessoas
+   - A pena é de reclusão de três a oito anos, se a subtração for de veículo automotor que venha a ser transportado para outro Estado ou para o exterior.
+   - A pena é de reclusão de 4 a 10 anos e multa, se houver emprego de explosivo ou de artefato análogo que cause perigo comum.
+  
+ -
  
 
 
