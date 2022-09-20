@@ -24,18 +24,6 @@ FURTO - Art.155
      - mediante concurso de duas ou mais pessoas
    - A pena é de reclusão de três a oito anos, se a subtração for de veículo automotor que venha a ser transportado para outro Estado ou para o exterior.
    - A pena é de reclusão de 4 a 10 anos e multa, se houver emprego de explosivo ou de artefato análogo que cause perigo comum.
-  
- -
- 
-
-
-
-
-
-
-
-
-
 
 ROUBO - Art.157
 - Subtrair objeto alheio por meio de violência/ grave ameaça (g/va)
