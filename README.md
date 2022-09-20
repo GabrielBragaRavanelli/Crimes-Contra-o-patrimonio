@@ -11,7 +11,7 @@ FURTO - Art.155
    - Pena aumentada em 1/3
    
  - Furto Privilegiado - art. 155, parágrafo 2
-   - Existem dus hipóteses para este furto:
+   - Existem duas hipóteses para este furto:
      - A primeira é no caso do réu ser primario, ou seja, ele não é reincidente, pois não cometeu nenhum crime anterior que foi transitado em julgado.
      - A segunda é no caso do item consumado, sejá de valor insignificante. Objeto de valor insignifante, é aquele que nçao excede 1/2 ou um salário minimo.
    - OBSERVAÇÂO: Furto privilegiado-qualificado é inadmissível.
